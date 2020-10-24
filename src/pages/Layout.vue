@@ -90,6 +90,7 @@
             <v-breadcrumbs-item>{{item1}}</v-breadcrumbs-item>
             <v-breadcrumbs-item>{{item2}}</v-breadcrumbs-item>
           </v-breadcrumbs>
+
       <div>
         <router-view/>
       </div>
